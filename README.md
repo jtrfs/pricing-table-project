@@ -1,4 +1,5 @@
 ### PROJECT: Pricing Table
+part of Kevin Powell's premium course 🚀 __Beyond CSS__: https://www.beyondcss.dev/
 
 ---
 
